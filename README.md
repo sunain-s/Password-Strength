@@ -8,4 +8,4 @@ Uses basic parameters to determine strength and gives visual and text based resp
 Has buttons which closes the app, initiates the check, and resets the input.
 Simple but aesthetic UI with custom logo.
 
-Available as both a .cs file and as a .exe
+Available as both a .cs file and as a .exe - .exe is in the bin file
