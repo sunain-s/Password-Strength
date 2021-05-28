@@ -9,3 +9,8 @@ Has buttons which closes the app, initiates the check, and resets the input.
 Simple but aesthetic UI with custom logo.
 
 Available as both a .cs file and as a .exe - .exe is in the bin file
+
+# What I learnt
+- using C# and static typing
+- using VS as an IDE
+- creating a Winforms application
