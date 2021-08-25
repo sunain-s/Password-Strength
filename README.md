@@ -12,5 +12,5 @@ Available as both a .cs file and as a .exe - .exe is in the bin file
 
 # What I learnt
 - using C# and static typing
-- using VS as an IDE
+- using Visual Studio as an IDE
 - creating a Winforms application
