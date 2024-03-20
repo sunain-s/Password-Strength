@@ -10,7 +10,7 @@ Simple but aesthetic UI with custom logo.
 
 Available as both a .cs file and as a .exe - .exe is in the bin file
 
-# What I learnt
+## What I learnt
 - using C# and static typing
-- using Visual Studio as an IDE
+- using Visual Studio
 - creating a Winforms application
